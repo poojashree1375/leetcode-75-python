@@ -12,10 +12,25 @@ Progress: 9 / 75
 
 ⏳ Two Pointers  
 ⏳ Sliding Window  
+⏳ Prefix Sum
+⏳ Hash Map / Set
 ⏳ Stack  
 ⏳ Queue  
-⏳ Binary Tree  
-⏳ Graph  
-⏳ Dynamic Programming  
+⏳ Linked List
+⏳ Binary Tree - DFS
+⏳ Binary Tree - BFS
+⏳ Binary Search Tree
+⏳ Graph - DFS
+⏳ Graph - BFS
+⏳ Heap / Priority Queue
+⏳ Binary Search
+⏳ Backtracking
+⏳ DP - 1D
+⏳ DP - Multidimensional
+⏳ Bit Manipulation
+⏳ Trie
+⏳ Intervals
+⏳ Monotonic Stack
+
 
 Language: Python
