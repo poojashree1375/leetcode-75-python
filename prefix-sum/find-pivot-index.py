@@ -1,0 +1,10 @@
+# Problem : Find Pivot Index
+# Topic : Prefix Sum
+
+class Solution:
+    def pivotIndex(self, nums: List[int]) -> int:
+        for i in range(len(nums)):
+            if sum(nums[:i]) == sum(nums[i+1:]):
+                return i
+        else:
+            return -1
