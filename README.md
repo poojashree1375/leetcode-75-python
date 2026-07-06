@@ -4,22 +4,23 @@ A repository containing my solutions for the LeetCode 75 Study Plan, focused on 
 
 ## Progress
 
-Solved: 17 / 75  
+Solved: 23 / 75  
 
 ## Completed
 
 ✅ Array / String (9 problems)                                                                                                                                    
 ✅ Two Pointers (4 problems)                                                                                                                                      
-✅ Sliding Window (4 problems)
+✅ Sliding Window (4 problems)                                                                                                                                    
+✅ Prefix Sum (2 problems)                                                                                                                                        
+✅ Hash Map / Set (4 problems)
+
 
 ## In Progress
 
- Prefix Sum
+ Stack
 
 ## Upcoming Topics
-
-- Prefix Sum  
-- Hash Map / Set  
+ 
 - Stack  
 - Queue  
 - Linked List  
