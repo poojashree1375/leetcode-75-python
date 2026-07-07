@@ -4,7 +4,7 @@ A repository containing my solutions for the LeetCode 75 Study Plan, focused on 
 
 ## Progress
 
-Solved: 23 / 75  
+Solved: 25 / 75  
 
 ## Completed
 
@@ -17,11 +17,10 @@ Solved: 23 / 75
 
 ## In Progress
 
- Stack
+ Stack - 1 problem left
 
 ## Upcoming Topics
- 
-- Stack  
+
 - Queue  
 - Linked List  
 - Binary Tree - DFS  
