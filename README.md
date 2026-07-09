@@ -4,7 +4,7 @@ A repository containing my solutions for the LeetCode 75 Study Plan, focused on 
 
 ## Progress
 
-Solved: 26 / 75  
+Solved: 28 / 75  
 
 ## Completed
 
@@ -13,16 +13,16 @@ Solved: 26 / 75
 ✅ Sliding Window (4 problems)                                                                                                                                    
 ✅ Prefix Sum (2 problems)                                                                                                                                        
 ✅ Hash Map / Set (4 problems)                                                                                                                                    
-✅ Stack (3 problems)
+✅ Stack (3 problems)                                                                                                                                             
+✅ Queue (2 problems)
 
 
 ## In Progress
 
- Queue
+ Linked List
 
 ## Upcoming Topics
   
-- Linked List  
 - Binary Tree - DFS  
 - Binary Tree - BFS  
 - Binary Search Tree  
